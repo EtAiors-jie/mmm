@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a, img {
+  display: block;
+  width: 100%;
+}
+
+html {
+  font-size: 100px;
+}
+
+body {
+  font-size: 16px;
+}
+
+.mmm-top {
+  background-color: #ff841d;
+}
+
+.mmm-top .top {
+  height: .45rem;
+}
+/*# sourceMappingURL=index.css.map */
